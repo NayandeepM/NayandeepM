@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NayandeepM
 - 👀 I’m interested in artificial intelligence and machine learning
-- 🌱 I’m currently learning pyhton programming
+- 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nayandeep.m@gmail.com
 - 
